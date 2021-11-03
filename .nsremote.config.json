@@ -1,6 +1,5 @@
 {
-    "cocoapodsVersion": "1.8.0",
     "circleci": {
-        "sshRepositoryURL": "git@github.com:xita99099/temp-proj.git"
+        "sshRepositoryURL": "git@github.com:lipovona/tatami.git"
     }
 }
